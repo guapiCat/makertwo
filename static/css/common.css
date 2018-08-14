@@ -1,0 +1,41 @@
+ul,li,body,html,p,a,input,img,span,h1,h2,h3,h4,h5,table,tr,td,th{
+    padding: 0;
+    margin: 0;
+}
+ul,li{
+    list-style: none;
+}
+.c_pointer{
+    cursor: pointer;
+}
+.commDiv{
+    width: 1200px;
+    margin: 0 auto;
+}
+.floatR{
+    float: right;
+}
+.floatL{
+    float: left;
+}
+.verAlignMid{
+    vertical-align: middle;
+}
+.colorTitle{
+    color: #385167 !important;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 0px 10px;
+}
+.colorBlue{
+    color: #569AEF !important;
+}
+.colorGree{
+    color: #5EA836 !important;
+}
+.colorRed{
+    color: #D04029 !important;
+}
+.colorGray{
+    color: #707274 !important;
+}

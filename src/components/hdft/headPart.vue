@@ -4,7 +4,7 @@
             <div class="hd_top">
                 <div v-bind:class="{hd_lf_hid:headSwich}">
                     <img class="hd_logo" src="../../assets/img/logo_shenlong.png" alt="">
-                    <span class="hd_scl">神龙小学创客平台</span>
+                    <span class="hd_scl">创客平台</span>
                 </div>
                 <img src="../../assets/img/bj_03.png" style="margin: 0 8%;height: 80px;" alt="">
                 <div v-bind:class="{hd_rt_hid:headSwich}">
@@ -18,7 +18,7 @@
                                     <img style="height: 50px;border-radius: 50%" src="../../../static/img/icon_touxiang02.png" alt="">
                                     <span class="drop_msg_name">小明同学</span>
                                     <span class="drop_msg_id">ID：124324132413</span>
-                                    <span class="drop_msg_scl">六年级一班  神龙小学</span>
+                                    <span class="drop_msg_scl">六年级一班  小学</span>
                                 </div>
                                 <img style="margin-left: 40px" class="verAlignMid" src="../../../static/img/icon_jifen.png" alt="">
                                 <span class="verAlignMid colorGray">我的积分：8000分 （仅在指定商场使用）</span>

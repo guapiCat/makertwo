@@ -1,7 +1,7 @@
 <template>
     <div class="my-footer">
-        <span class="ft_sp1">神龙小学创客平台：</span>
-        <span class="ft_sp2">网站首页||联系我们：027-67680746 学校邮箱：BJYSFX@GMALL.COM || 版权所有：武汉经济技术开发区神龙小学</span>
+        <span class="ft_sp1">创客平台：</span>
+        <span class="ft_sp2">网站首页||联系我们：027-67680746 学校邮箱：BJYSFX@GMALL.COM || 版权所有：0000000000小学</span>
     </div>
 </template>
 

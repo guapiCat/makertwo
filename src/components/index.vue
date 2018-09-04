@@ -22,7 +22,7 @@
                             <span>上传时间：2017-1-1 18:00</span>
                             <br><br>
                             <img class="verAlignMid" src="../../static/img/icon_touxiang01.png" alt="">
-                            <span class="verAlignMid">小明同学  一年级一班  神龙小学  指导老师：王富贵</span>
+                            <span class="verAlignMid">小明同学  一年级一班  小学  指导老师：王富贵</span>
                         </p>
                         <p>
                             <video controls="controls" height="400px" src="http://video.pearvideo.com/mp4/adshort/20180810/cont-1408923-12640554_adpkg-ad_hd.mp4"></video>
@@ -49,7 +49,7 @@
                                 <img class="verAlignMid" src="../../static/img/icon_touxiang01.png" alt="">
                                 <span class="verAlignMid">小明同学</span>
                                 <br>
-                                <span>一年级一班 &nbsp;&nbsp;&nbsp;&nbsp;神龙小学</span>
+                                <span>一年级一班 &nbsp;&nbsp;&nbsp;&nbsp;小学</span>
                             </div>
                         </el-card>
                     </el-main>
@@ -83,7 +83,7 @@
                         <p class="se3_bot">
                             <img style="height: 30px" src="../../static/img/icon_touxiang01.png" alt="">
                             <span class="colorBlue">小明同学</span>
-                            <span style="overflow: hidden">一年级一班 &nbsp;&nbsp; 神龙小学</span>
+                            <span style="overflow: hidden">一年级一班 &nbsp;&nbsp; 小学</span>
                         </p>
                     </div>
                 </el-card>
@@ -152,7 +152,7 @@
                     </div>
                     <div class="se5_midp">
                         <p>小明同学</p>
-                        <p>六年级一班  神龙小学</p>
+                        <p>六年级一班  小学</p>
                         <p class="se5_msg">
                             <img src="../../static/img/icon_liulan01.png" alt="">
                             <span>2000次</span>
